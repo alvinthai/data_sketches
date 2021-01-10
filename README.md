@@ -1,5 +1,5 @@
 # data_sketches
-A collection of data related UX sketches made by Krisztina Szerovay ([medium.com/@krisztina.szerovay](http://www.medium.com/@krisztina.szerovay))
+A collection of data related UX sketches made by [Krisztina Szerovay](https://uxknowledgebase.com)
 
 ![](Images/data_viz_p1.jpeg)
 ![](Images/data_viz_p2.png)
